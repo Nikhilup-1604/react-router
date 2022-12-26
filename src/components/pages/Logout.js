@@ -6,6 +6,7 @@ const Logout = () => {
     <>
     <h1>Logout Page</h1>
     <h2>{location.state.name} Logged out</h2>
+    
     </>
    
   )
